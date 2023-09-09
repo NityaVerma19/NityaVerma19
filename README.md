@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NityaVerma19
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m Nitya
+- 👀 I’m interested in the field of Data Science
 - 🌱 I’m currently learning Python 
 
   
