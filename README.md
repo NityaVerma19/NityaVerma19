@@ -1,11 +1,11 @@
 Hi 👋 My name is Nitya Verma
 ============================
+Exploring the world of data
 
 
-
-* 🌍  I'm based in Mumbai
+* 🌍  I'm based in India
 * ✉️  You can contact me at [vrmnitya@gmail.com](mailto:vrmnitya@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm currently learning Python
 
 ### Skills
 
