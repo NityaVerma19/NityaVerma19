@@ -1,7 +1,7 @@
 Hi 👋 My name is Nitya Verma
 ============================
 
-An aspiring data scientist
+
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [vrmnitya@gmail.com](mailto:vrmnitya@gmail.com)
