@@ -1,4 +1,4 @@
-Hi 👋 My name is Nitya Verma
+Hi 👋 I am Nitya
 ============================
 Exploring the world of data
 
