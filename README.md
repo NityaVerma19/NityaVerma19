@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NityaVerma19.NityaVerma19" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Nitya!;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=35&center=True&duration=4000&color=23F7AE&width=435&lines=Hey+There!+👋;I'm+Nitya!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">An aspiring data scientist</h3>
@@ -55,15 +55,15 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=NityaVerma19&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=NityaVerma19&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=NityaVerma19&count_private=true&theme=gotham&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=NityaVerma19&count_private=true&show_icons=true&theme=gotham&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 
 <br/><br/>
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!">
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&size=25&center=True&duration=4000&color=23F7AE&width=435&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!" alt="Typing SVG" /></a>
 </h3>
 
 <br/>
