@@ -56,7 +56,8 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=NityaVerma19&count_private=true&theme=github_dark_blue&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=NityaVerma19&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=NityaVerma19&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
   <br/>
 
 <br/><br/>
