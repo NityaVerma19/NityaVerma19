@@ -17,16 +17,20 @@
  </div>
  
 <div align="center"> 
+<h2 Connect with me on </h1>
   <a href="mailto:vrmnitya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img height = 40 src="https://github.com/NityaVerma19/NityaVerma19/assets/143432351/7342e496-c457-4de1-935b-69941281c32a" />
   </a>
   <a href="https://www.linkedin.com/in/nitya-verma-832014275/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img height = 40 src= "https://github.com/NityaVerma19/NityaVerma19/assets/143432351/7a84104f-5236-4c8e-814f-1d69e39a7942"
   </a>
   <a href = "https://medium.com/@vrmnitya">
-    <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=Medium&logoColor=black" target="_blank" />
-  
+    <img height = 40 src="https://github.com/NityaVerma19/NityaVerma19/assets/143432351/f157c7fa-2593-4943-b479-ea3fe59466d9" />
+
   </a>
+  <br/>
+  
+  
 </div>
 
  <hr/>
