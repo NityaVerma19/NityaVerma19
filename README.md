@@ -1,8 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NityaVerma19.NityaVerma19" />
+<div align="center"> <img src="github-header-image.png"> </div>
 
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&center=True&duration=4000&color=2E5CF1&width=435&lines=Hey+There!+👋;I'm+Nitya!" alt="Typing SVG" /></a>
-</h1>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NityaVerma19.NityaVerma19" />
 
 <h3 align="center"&font=IBM+plex+serif>An aspiring data scientist</h3>
 
