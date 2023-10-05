@@ -11,9 +11,9 @@
 
 <div align="center"&font=IBM+plex+serif>
  
- 🔭 I’m currently working on **a Startup dashboard**
+ 🔭 I’m currently working on **a Startup dashboard and a Calculator app**
  
- 🌱 I’m currently learning **Streamlit**
+ 🌱 I’m currently learning **Streamlit and tkinter**
 
  
  </div>
