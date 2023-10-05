@@ -17,7 +17,7 @@
  </div>
  
 <div align="center"> 
-<h2 Connect with me on </h1>
+<h2>Connect with me on </h2>  
   <a href="mailto:vrmnitya@gmail.com">
     <img height = 40 src="https://github.com/NityaVerma19/NityaVerma19/assets/143432351/7342e496-c457-4de1-935b-69941281c32a" />
   </a>
