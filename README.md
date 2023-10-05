@@ -1,9 +1,8 @@
-<div align="center"> <img src="github-header-image.png"> </div>
+<div align="center"> <img src="git-header-image.png"> </div>
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NityaVerma19.NityaVerma19" />
 
-<h3 align="center"&font=IBM+plex+serif>An aspiring data scientist</h3>
 
 <br/>
 
