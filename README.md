@@ -21,7 +21,7 @@
   <a href="mailto:vrmnitya@gmail.com">
     <img height = 40 src="https://github.com/NityaVerma19/NityaVerma19/assets/143432351/7342e496-c457-4de1-935b-69941281c32a" />
   </a>
-  <a href="https://www.linkedin.com/in/nitya-verma-832014275/" target="_blank">
+  <a href="[https://www.linkedin.com/in/nitya-verma-832014275/](https://www.linkedin.com/in/nitya-verma-832014275/)" target="_blank">
     <img height = 40 src= "https://github.com/NityaVerma19/NityaVerma19/assets/143432351/7a84104f-5236-4c8e-814f-1d69e39a7942" />
   </a>
   <a href = "https://medium.com/@vrmnitya">
