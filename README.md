@@ -38,7 +38,7 @@
 <h2 align="center"&font=IBM+plex+serif>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,mysql,flask,blender" />
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,flask,blender,git" />
 </div>
 
 <br/>
