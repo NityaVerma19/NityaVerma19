@@ -9,9 +9,9 @@
 
 <div align="center"&font=IBM+plex+serif>
  
- 🔭 I’m currently working on **a Startup dashboard and a Calculator app**
+ 🔭 I’m currently working on **EDA FOR NLP**
  
- 🌱 I’m currently learning **Streamlit and tkinter**
+ 🌱 I’m currently learning **Streamlit**
 
  
  </div>
