@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **EDA FOR NLP**
  
- 🌱 I’m currently learning **Streamlit**
+ 🌱 I’m currently learning **ML using R**
 
  
  </div>
