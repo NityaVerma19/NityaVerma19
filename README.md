@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NityaVerma19&theme=iceberg" alt="GitHub Streak"  /></a>
+<a align="center" href="https://github.com/NityaVerma19" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NityaVerma19&langs_count=5&title_color=85a2c8&text_color=dadce7&icon_color=0891b2&bg_color=1e2132&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
