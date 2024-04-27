@@ -34,6 +34,10 @@ Here are some ideas to get you started:
     <td align="center" width="150" style="padding: 10px;">
       <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="60" height="60" /><br>Oracle
     </td>
+    <td align="center" width="150" style="padding: 10px;">
+      <img src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" width="60" height="60" /><br>Overleaf
+    </td>
+
 
   </tr>
 
@@ -50,17 +54,12 @@ Here are some ideas to get you started:
     <td align="center" width="150" style="padding: 10px;">
       <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" width="60" height="60" /><br>Flask
     </td>
-
-  </tr>
-    
-  <tr>
-    <td align="center" width="150" style="padding: 10px;">
-      <img src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" width="60" height="60" /><br>Overleaf
-    </td>
-    <td align="center" width="150" style="padding: 10px;">
+        <td align="center" width="150" style="padding: 10px;">
       <img src="https://p7.hiclipart.com/preview/801/880/16/rstudio-macos-clip-art-r.jpg" width="60" height="60" /><br>R
     </td>
     
+
+
     
 </table>
 
