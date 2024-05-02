@@ -1,5 +1,4 @@
-### Hey! 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+### Hey! <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
 <!--
 **NityaVerma19/NityaVerma19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
