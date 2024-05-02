@@ -1,5 +1,5 @@
-### Hey! <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-
+### Hey! 
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 <!--
 **NityaVerma19/NityaVerma19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<a align="center" href="https://github.com/NityaVerma19"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NityaVerma19&langs_count=5&title_color=85a2c8&text_color=dadce7&icon_color=0891b2&bg_color=1e2132&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 -->
+<a align="center" href="https://github.com/NityaVerma19"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NityaVerma19&langs_count=5&title_color=85a2c8&text_color=dadce7&icon_color=0891b2&bg_color=1e2132&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>   Tech Stack :</h3>
 <table align="center">
